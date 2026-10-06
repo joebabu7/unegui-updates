@@ -1,0 +1,39 @@
+{
+  "payload": {
+    "api": 1,
+    "version": 1,
+    "publishedAt": "2026-10-06T01:26:38.103Z",
+    "bundle": {
+      "file": "scraper-1.cjs",
+      "sha256": "7ab9bb37f6f57ced3a138b3cd61d643d88bf3c8f20267e2a38ecca39a3eae0f7"
+    },
+    "presets": {
+      "toyota": [
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/toyota/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/toyota/condition---2/condition---3/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/toyota/condition---1/ruli---zv/year_min---2018/"
+      ],
+      "lexus": [
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/lexus/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/lexus/condition---2/condition---3/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/lexus/condition---1/ruli---zv/year_min---2018/"
+      ],
+      "all": [
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/condition---2/condition---3/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/condition---1/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/ruli---zv/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/condition---2/condition---3/ruli---zv/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/condition---1/ruli---zv/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/toyota/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/toyota/condition---2/condition---3/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/toyota/condition---1/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/lexus/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/lexus/condition---2/condition---3/ruli---zv/year_min---2018/",
+        "https://www.unegui.mn/avto-mashin/-avtomashin-zarna/lexus/condition---1/ruli---zv/year_min---2018/"
+      ]
+    }
+  },
+  "signature": "H7/Iik7LsJ6OD4mDmzJYZHRac4zSj/RoWIr0iHnclcw/+FsOZcPgcuVNmCWl6+4Kuwst71AcTkoSKFiFcsINAQ=="
+}
